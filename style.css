@@ -1,0 +1,42 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2tQPZj2Y-I52xywMkO0tORidV2lbSqSyLJbZ3NtweumJX7qV41BIEwbJFP1UU7vjdMqw&usqp=CAU");
+    height: 100%; 
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 500px 500px;
+    background-color: lightblue;
+    
+  }
+  #one{
+    padding-left: 650px;
+    padding-top:100px;
+    font-size: 30px;
+  }
+  label{
+    font-size:50px;
+    
+  }
+  #userid{
+    border: 2px solid #030c05;
+    border-radius: 12px;
+  }
+  #pass{
+  border: 2px solid #040a05;
+    border-radius: 12px;
+  }
+  #mailid{
+    border: 2px solid #0f0f0f;
+    border-radius: 12px;
+  }
+  #phone{
+  border: 2px solid #041308;
+    border-radius: 12px;
+  }
+  #msg{
+    border: 2px solid #031307;
+      border-radius: 12px;
+    }
+  #submit{
+  border: 2px solid black;
+    border-radius: 12px;
+  }
